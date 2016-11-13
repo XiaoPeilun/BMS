@@ -1,0 +1,10 @@
+0 2014213087  gumeng                   stranger@163.com         09876543210     电信工程及管理           女   顾萌            国际学院                 
+0 2014213088  chenyu                   stranger@qq.com          09876543211     电子商务及法律           男   陈宇            国际学院                 
+0 2014213089  chenming                 stranger@126.com         09876543212     电信工程及管理           男   陈明            国际学院                 
+0 2014213090  anqi                     stranger@gmail.com       09876543213     物联网工程               女   安琪            国际学院                 
+0 2014213091  wangkai                  stranger@bupt.edu.com    09876543214     电子商务及法律           女   王凯            国际学院                 
+0 2014213092  lihao                    stranger@sohu.com        09876543215     电信工程及管理           男   李昊            国际学院                 
+0 2014213093  zoumin                   stranger@hotmail.com     09876543216     物联网工程               男   邹闽            国际学院                 
+0 2014213094  yangcheng                stranger@188.com         09876543217     电子商务及法律           男   杨程            国际学院                 
+0 2014213095  tangtian                 stranger@sina.com        09876543218     电信工程及管理           男   汤天            国际学院                 
+0 2014213096  dongzheng                123@qq.com               18800172725     电子商务及法律           男   董征            国际学院                 
